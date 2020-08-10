@@ -1,0 +1,23 @@
+{
+  "name": "goodworklabs",
+  "version": "1.0.0",
+  "description": "Dynamic module recognition",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivah21/goodWorkLabs.git"
+  },
+  "author": "shivah21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivah21/goodWorkLabs/issues"
+  },
+  "homepage": "https://github.com/shivah21/goodWorkLabs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

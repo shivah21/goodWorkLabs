@@ -1,0 +1,11 @@
+node_modules
+coverage
+.idea
+*report.html
+test-report.html
+yarn-cache
+yarn-error.log
+yest-cache
+babel-loader-cache
+.history
+jest-cache
